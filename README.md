@@ -1,1 +1,1 @@
-# DiceChallenge
+# Dice Challenge Using Javascript
