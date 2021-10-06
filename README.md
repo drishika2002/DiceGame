@@ -1,1 +1,1 @@
-# Dice Challenge Using Javascript
+# Simple Dice Game Using Javascript
