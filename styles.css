@@ -14,8 +14,7 @@
 }
 
 body {
-  background: rgb(9,9,121);
-  background: linear-gradient(90deg, rgba(9,9,121,1) 10%, rgba(8,34,137,1) 35%, rgba(5,100,180,1) 55%, rgba(0,212,255,1) 100%);  
+  background-color: #a8d9f5; 
 }
 
 h1 {
